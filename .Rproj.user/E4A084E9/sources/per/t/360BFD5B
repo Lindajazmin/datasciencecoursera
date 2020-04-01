@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585700881903.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3300651028",
+    "id" : "360BFD5B",
+    "lastKnownWriteTime" : 1585701131,
+    "last_content_update" : 1585701131867,
+    "path" : "C:/Users/linda/Desktop/HelloWorld/HelloWorld.Rproj",
+    "project_path" : "HelloWorld.Rproj",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
